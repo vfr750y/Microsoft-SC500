@@ -20,7 +20,7 @@
 - Manage OAuth permission grants and consent settings
 - Implement and configure managed identities for Azure resources
 
-### Secure secrets and keys by using Azure Key Vault
+#### Secure secrets and keys by using Azure Key Vault
 - Deploy Key Vault
 - Configure Key Vault settings
 - Configure access to Key Vault
@@ -31,7 +31,7 @@
 - Implement governance to enforce security and regulatory compliance
 - Implement and configure security controls by using Azure Policy, including built-in and custom policy definitions
 
-## Evaluate regulatory compliance by using Microsoft Defender for Cloud
+#### Evaluate regulatory compliance by using Microsoft Defender for Cloud
 - Implement and configure security controls in Defender for Cloud, including security standards and recommendations
 - Implement resource locks
 - Manage Azure built-in role assignments
@@ -41,40 +41,27 @@
 - Implement and configure security controls by using infrastructure as code
 
 ### Secure storage, databases, and networking (25–30%)
-Implement security for storage accounts
-Implement and configure security for storage accounts
+#### Implement security for storage accounts
+- Implement and configure security for storage accounts
+- Configure Azure Storage firewall rules
+- Implement Defender for Storage threat protection configurations
+- Manage access to storage, including access policies
 
-Configure Azure Storage firewall rules
+#### Implement security for databases
+- Implement platform-level security configurations in Azure SQL
+- Configure database auditing for Azure SQL Database and Azure SQL Managed Instance
+- Configure Defender for Databases protection across Azure database services
 
-Implement Defender for Storage threat protection configurations
-
-Manage access to storage, including access policies
-
-Implement security for databases
-Implement platform-level security configurations in Azure SQL
-
-Configure database auditing for Azure SQL Database and Azure SQL Managed Instance
-
-Configure Defender for Databases protection across Azure database services
-
-Implement security for Azure network services
-Implement and manage network security groups (NSGs) and application security groups (ASGs)
-
-Implement and configure network access policies by using Azure Virtual Network Manager
-
-Configure security for an Azure Virtual WAN
-
-Implement and configure security for virtual private network (VPN) connections
-
-Implement and configure Microsoft Entra Private Access
-
-Configure Azure private endpoints to secure access to Azure platform as a service (PaaS) resources
-
-Configure Azure Private Link services to secure access to network resources
-
-Implement and configure Azure Firewall
-
-Evaluate effective security rules by using Azure Network Watcher diagnostics
+#### Implement security for Azure network services
+- Implement and manage network security groups (NSGs) and application security groups (ASGs)
+- Implement and configure network access policies by using Azure Virtual Network Manager
+- Configure security for an Azure Virtual WAN
+- Implement and configure security for virtual private network (VPN) connections
+- Implement and configure Microsoft Entra Private Access
+- Configure Azure private endpoints to secure access to Azure platform as a service (PaaS) resources
+- Configure Azure Private Link services to secure access to network resources
+- Implement and configure Azure Firewall
+- Evaluate effective security rules by using Azure Network Watcher diagnostics
 
 ### Secure compute (20–25%)
 Implement security for AI
