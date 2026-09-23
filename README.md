@@ -12,52 +12,33 @@
 - Manage and monitor security posture (20–25%)
 
 ### Manage identity, access, and governance (20–25%)
-Secure access to resources by using Microsoft Entra ID
-Implement and configure Privileged Identity Management (PIM)
+#### Secure access to resources by using Microsoft Entra ID
+- Implement and configure Privileged Identity Management (PIM)
+- Implement conditional access policies
+- Implement and configure authentication methods, including multifactor authentication (MFA) and passwordless
+- Implement and configure identity for applications, including enterprise applications and app registrations
+- Manage OAuth permission grants and consent settings
+- Implement and configure managed identities for Azure resources
 
-Implement conditional access policies
+### Secure secrets and keys by using Azure Key Vault
+- Deploy Key Vault
+- Configure Key Vault settings
+- Configure access to Key Vault
+- Configure firewall settings on Key Vault
+- Manage keys, secrets, and certificates
+- Scan for secrets by using Defender Cloud Security Posture Management (Defender CSPM)
+- Implement Defender for Key Vault
+- Implement governance to enforce security and regulatory compliance
+- Implement and configure security controls by using Azure Policy, including built-in and custom policy definitions
 
-Implement and configure authentication methods, including multifactor authentication (MFA) and passwordless
-
-Implement and configure identity for applications, including enterprise applications and app registrations
-
-Manage OAuth permission grants and consent settings
-
-Implement and configure managed identities for Azure resources
-
-Secure secrets and keys by using Azure Key Vault
-Deploy Key Vault
-
-Configure Key Vault settings
-
-Configure access to Key Vault
-
-Configure firewall settings on Key Vault
-
-Manage keys, secrets, and certificates
-
-Scan for secrets by using Defender Cloud Security Posture Management (Defender CSPM)
-
-Implement Defender for Key Vault
-
-Implement governance to enforce security and regulatory compliance
-Implement and configure security controls by using Azure Policy, including built-in and custom policy definitions
-
-Evaluate regulatory compliance by using Microsoft Defender for Cloud
-
-Implement and configure security controls in Defender for Cloud, including security standards and recommendations
-
-Implement resource locks
-
-Manage Azure built-in role assignments
-
-Manage custom roles, including Azure roles and Microsoft Entra roles
-
-Evaluate and remediate overprivileged access assignments by using Azure role-based access control (RBAC)
-
-Configure security controls for backup protection by using Azure Backup security features
-
-Implement and configure security controls by using infrastructure as code
+## Evaluate regulatory compliance by using Microsoft Defender for Cloud
+- Implement and configure security controls in Defender for Cloud, including security standards and recommendations
+- Implement resource locks
+- Manage Azure built-in role assignments
+- Manage custom roles, including Azure roles and Microsoft Entra roles
+- Evaluate and remediate overprivileged access assignments by using Azure role-based access control (RBAC)
+- Configure security controls for backup protection by using Azure Backup security features
+- Implement and configure security controls by using infrastructure as code
 
 ### Secure storage, databases, and networking (25–30%)
 Implement security for storage accounts
