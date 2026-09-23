@@ -2,7 +2,7 @@
 ## Implementing End-to-End Security Controls for Cloud and AI Workloads
 
 ## Exam study guide
-Skills at a glance
+### Skills at a glance
 Manage identity, access, and governance (20–25%)
 
 Secure storage, databases, and networking (25–30%)
@@ -11,7 +11,7 @@ Secure compute (20–25%)
 
 Manage and monitor security posture (20–25%)
 
-Manage identity, access, and governance (20–25%)
+### Manage identity, access, and governance (20–25%)
 Secure access to resources by using Microsoft Entra ID
 Implement and configure Privileged Identity Management (PIM)
 
@@ -59,7 +59,7 @@ Configure security controls for backup protection by using Azure Backup security
 
 Implement and configure security controls by using infrastructure as code
 
-Secure storage, databases, and networking (25–30%)
+### Secure storage, databases, and networking (25–30%)
 Implement security for storage accounts
 Implement and configure security for storage accounts
 
@@ -95,7 +95,7 @@ Implement and configure Azure Firewall
 
 Evaluate effective security rules by using Azure Network Watcher diagnostics
 
-Secure compute (20–25%)
+### Secure compute (20–25%)
 Implement security for AI
 Identify overexposure of data in SharePoint
 
@@ -157,7 +157,7 @@ Implement and configure Azure Web Application Firewall
 
 Implement security policies for back-end API protection by using API Management
 
-Manage and monitor security posture (20–25%)
+### Manage and monitor security posture (20–25%)
 Manage security posture by using Defender for Cloud
 Identify security risks by using Defender CSPM
 
