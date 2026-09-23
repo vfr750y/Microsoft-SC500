@@ -64,107 +64,65 @@
 - Evaluate effective security rules by using Azure Network Watcher diagnostics
 
 ### Secure compute (20–25%)
-Implement security for AI
-Identify overexposure of data in SharePoint
+#### Implement security for AI
+- Identify overexposure of data in SharePoint
+- Identify risks related to Microsoft Copilot and AI apps by using Microsoft Purview Data Security Posture Management (DSPM)
+- Enable and configure real-time protection for Microsoft Copilot Studio agents
+- Implement conditional access for Microsoft Entra Agent ID
+- Analyze blast radius for security risks related to Entra Agent ID by using Defender XDR
+- Manage Entra Agent ID access
+- Configure and deploy AI Gateway in Azure API Management for Microsoft Foundry
+- Enable Defender for AI Service in Cloud Workload Protection in Defender for Cloud
+- Configure guardrails for agent security in Foundry
+- Monitor AI security by using the Data and AI security dashboard in Defender for Cloud
+- Manage agents in Microsoft 365 admin center
 
-Identify risks related to Microsoft Copilot and AI apps by using Microsoft Purview Data Security Posture Management (DSPM)
+#### Implement security for servers and virtual machines (VMs)
+- Implement and configure disk encryption
+- Plan and implement Azure Bastion
+- Enable and enforce use of just-in-time (JIT) VM access
+- Extend security controls to hybrid and multicloud servers by using Azure Arc
+- Onboard servers to Defender for Servers in Defender for Cloud, including hybrid and multicloud scenarios
+- Configure Defender for Servers settings, including vulnerability scanning, and endpoint detection and response (EDR)
+- Implement and manage agentless scanning for VMs in Defender for Servers
+- Configure security features on a VM, including secure boot, virtual Trusted Platform Module (vTPM), integrity monitoring, and security type
+- Enforce security configuration of Azure-managed servers by using Azure Machine Configuration
 
-Enable and configure real-time protection for Microsoft Copilot Studio agents
-
-Implement conditional access for Microsoft Entra Agent ID
-
-Analyze blast radius for security risks related to Entra Agent ID by using Defender XDR
-
-Manage Entra Agent ID access
-
-Configure and deploy AI Gateway in Azure API Management for Microsoft Foundry
-
-Enable Defender for AI Service in Cloud Workload Protection in Defender for Cloud
-
-Configure guardrails for agent security in Foundry
-
-Monitor AI security by using the Data and AI security dashboard in Defender for Cloud
-
-Manage agents in Microsoft 365 admin center
-
-Implement security for servers and virtual machines (VMs)
-Implement and configure disk encryption
-
-Plan and implement Azure Bastion
-
-Enable and enforce use of just-in-time (JIT) VM access
-
-Extend security controls to hybrid and multicloud servers by using Azure Arc
-
-Onboard servers to Defender for Servers in Defender for Cloud, including hybrid and multicloud scenarios
-
-Configure Defender for Servers settings, including vulnerability scanning, and endpoint detection and response (EDR)
-
-Implement and manage agentless scanning for VMs in Defender for Servers
-
-Configure security features on a VM, including secure boot, virtual Trusted Platform Module (vTPM), integrity monitoring, and security type
-
-Enforce security configuration of Azure-managed servers by using Azure Machine Configuration
-
-Implement security for application platform services
-Detect misconfigurations and runtime risks in container workloads by using Defender for Containers
-
-Implement and configure security controls for Azure Kubernetes Service (AKS)
-
-Implement and configure security controls for Azure Container Registry
-
-Implement and configure security controls for Azure Container Instances and Azure Container Apps
-
-Implement and configure security controls for Azure Functions, including authentication and network access
-
-Implement and configure security controls for Azure Logic Apps
-
-Implement and configure security controls for Azure App Service
-
-Implement and configure Azure Web Application Firewall
-
-Implement security policies for back-end API protection by using API Management
+#### Implement security for application platform services
+- Detect misconfigurations and runtime risks in container workloads by using Defender for Containers
+- Implement and configure security controls for Azure Kubernetes Service (AKS)
+- Implement and configure security controls for Azure Container Registry
+- Implement and configure security controls for Azure Container Instances and Azure Container Apps
+- Implement and configure security controls for Azure Functions, including authentication and network access
+- Implement and configure security controls for Azure Logic Apps
+- Implement and configure security controls for Azure App Service
+- Implement and configure Azure Web Application Firewall
+- Implement security policies for back-end API protection by using API Management
 
 ### Manage and monitor security posture (20–25%)
-Manage security posture by using Defender for Cloud
-Identify security risks by using Defender CSPM
+#### Manage security posture by using Defender for Cloud
+- Identify security risks by using Defender CSPM
+- Evaluate compliance against security frameworks by using Defender for Cloud
+- Enable and configure Defender for Cloud workload protection plans
+- Connect hybrid cloud and multicloud environments to Defender for Cloud, including Amazon Web Services (AWS) and Google Cloud Platform (GCP)
+- Configure Microsoft Defender Vulnerability Management settings for Azure VMs
+- Discover unprotected assets and vulnerabilities by using Microsoft Defender External Attack Surface Management (EASM)
 
-Evaluate compliance against security frameworks by using Defender for Cloud
+#### Implement activity and event collection in Microsoft Sentinel
+- Create and connect workspaces in Microsoft Sentinel
+- Assign roles in Microsoft Sentinel
+- Implement and use content hub solutions
+- Configure and use Microsoft data connectors for Azure resources
+- Implement and configure syslog and Common Event Format (CEF) event collections
+- Implement and configure collection of Windows Security events by using data collection rules, including Windows Event Forwarding (WEF)
+- Create custom log tables in the workspace to store ingested data
+- Implement automation rules and playbooks in Microsoft Sentinel
+- Implement data retention in Microsoft Sentinel data stores
+- Query Microsoft Purview Audit in Defender XDR
 
-Enable and configure Defender for Cloud workload protection plans
-
-Connect hybrid cloud and multicloud environments to Defender for Cloud, including Amazon Web Services (AWS) and Google Cloud Platform (GCP)
-
-Configure Microsoft Defender Vulnerability Management settings for Azure VMs
-
-Discover unprotected assets and vulnerabilities by using Microsoft Defender External Attack Surface Management (EASM)
-
-Implement activity and event collection in Microsoft Sentinel
-Create and connect workspaces in Microsoft Sentinel
-
-Assign roles in Microsoft Sentinel
-
-Implement and use content hub solutions
-
-Configure and use Microsoft data connectors for Azure resources
-
-Implement and configure syslog and Common Event Format (CEF) event collections
-
-Implement and configure collection of Windows Security events by using data collection rules, including Windows Event Forwarding (WEF)
-
-Create custom log tables in the workspace to store ingested data
-
-Implement automation rules and playbooks in Microsoft Sentinel
-
-Implement data retention in Microsoft Sentinel data stores
-
-Query Microsoft Purview Audit in Defender XDR
-
-Implement Microsoft Security Copilot
-Configure workspaces for Security Copilot
-
-Manage permissions and roles in Security Copilot
-
-Enable and configure plugins
+#### Implement Microsoft Security Copilot
+- Configure workspaces for Security Copilot
+- Manage permissions and roles in Security Copilot
+- Enable and configure plugins
 
 Enable and configure Microsoft agents and Security Store agents
