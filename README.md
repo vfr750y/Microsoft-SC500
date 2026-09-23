@@ -124,5 +124,4 @@
 - Configure workspaces for Security Copilot
 - Manage permissions and roles in Security Copilot
 - Enable and configure plugins
-
-Enable and configure Microsoft agents and Security Store agents
+- Enable and configure Microsoft agents and Security Store agents
