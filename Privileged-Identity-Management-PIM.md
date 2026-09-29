@@ -22,4 +22,13 @@
 |**A**udit | Every activation generates an audit log stored against the role for 30 days |
 |Access **R**eviews | Can be created for a future date or activated after creation. Access reviews with multiple roles in the scope generate separate approvals |
 
+### Non permanent roles
+|Item|Description|
+|---|---|
+|**G**lobal Administrator|  Biggest blast radius |
+|**P**rivileged Role Administrator|  Can change all role assignments including its own |
+|**S**ecurity administrator|  Tenant wide security policy admin |
+|**E**xchange administrator | Full access to email and calendars |
+|**A**pplication administrator | Register apps and modify app secrets and certificates |
+|**A**uthentication policy administrator | Manage password protection, MFA and auth methods tenant wide  |
 
