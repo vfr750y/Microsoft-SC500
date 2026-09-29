@@ -19,5 +19,6 @@
 |**J**ustification | Written explanation of why activation is needed |
 |**A**pproval | Additional human reassurance that the access is needed and the request for activation is valid |
 |**D**uration | Activation time window after which the elevated access expires |
+|**A**udit | Every activation generates an audit log stored against the role for 30 days |
 
 
