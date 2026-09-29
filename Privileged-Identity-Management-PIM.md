@@ -20,5 +20,6 @@
 |**A**pproval | Additional human reassurance that the access is needed and the request for activation is valid |
 |**D**uration | Activation time window after which the elevated access expires |
 |**A**udit | Every activation generates an audit log stored against the role for 30 days |
+|Access **R**eviews | Can be created for a future date or activated after creation. Access reviews with multiple roles in the scope generate separate approvals |
 
 
