@@ -4,7 +4,6 @@
 ## Exam study guide
 ### Skills at a glance
 - Manage identity, access, and governance (20–25%)
-
 - Secure storage, databases, and networking (25–30%)
 
 - Secure compute (20–25%)
